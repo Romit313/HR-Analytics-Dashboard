@@ -1,13 +1,15 @@
-# Attrition Analytics Dashboard
+# HR Analytics Dashboard
 
-The **Attrition Analytics Dashboard** is an interactive Tableau-based tool designed to analyze employee data, with a focus on understanding patterns in attrition and workforce dynamics. This dashboard helps organizations uncover key insights into employee behavior, influencing retention strategies, performance trends, and overall workforce management.
+The **HR Analytics Dashboard** is an interactive Tableau-based tool designed to analyze employee data, with a focus on understanding patterns in attrition and workforce dynamics. This dashboard helps organizations uncover key insights into employee behavior, influencing retention strategies, performance trends, and overall workforce management.
 
 ## Features
 
-- **Attrition Insights**: Visualizes key factors contributing to employee attrition, such as gender, department, and tenure.
-- **Workforce Demographics**: Breaks down employee distribution by age, gender, department, and other demographics for deeper understanding.
-- **Performance Trends**: Tracks employee performance over time and links it to attrition patterns, offering actionable insights.
-- **Interactive Filters**: Allows users to drill down into specific data subsets like department, tenure, and performance ratings, enabling focused analysis.
+- **Attrition Analysis**: Analyzes attrition trends by gender, department, education field, and age group, providing valuable insights into the key factors contributing to employee attrition.
+- **Workforce Demographics**: Breaks down employee distribution by age group, gender, department, and education field, allowing a comprehensive view of workforce composition.
+- **Job Satisfaction Insights**: Tracks job satisfaction ratings across different employee segments to understand its impact on retention.
+- **Attrition Rate by Gender and Department**: Visualizes attrition rate patterns by gender and department, helping identify critical areas for improvement.
+- **Interactive Filter**: Enables users to filter data specifically by education level, allowing a more focused analysis of the workforce trends.
+
 
 ## Technologies Used
 
@@ -15,9 +17,9 @@ The **Attrition Analytics Dashboard** is an interactive Tableau-based tool desig
 
 ## Tableau Public Link
 
-You can explore the interactive **Attrition Analytics Dashboard** on Tableau Public by following the link below:
+You can explore the interactive **HR Analytics Dashboard** on Tableau Public by following the link below:
 
-[Attrition Analytics Dashboard](https://public.tableau.com/views/HR_Analytics_Dashboard_17276586660660/HRAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[HR Analytics Dashboard](https://public.tableau.com/views/HR_Analytics_Dashboard_17276586660660/HRAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
